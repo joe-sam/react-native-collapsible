@@ -1,3 +1,6 @@
+# Fork details
+This release includes fixes for typescript and migrates Animated to Reanimated which have been merged but not yet been published on the original repo.
+
 # react-native-collapsible
 
 _Animated collapsible component for React Native using the Reanimated API_
